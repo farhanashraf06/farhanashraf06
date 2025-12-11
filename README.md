@@ -37,5 +37,6 @@
 - Problem Solving  
 - Debugging & Testing  
 - Version Control (Git)
+- Flowchart
 
 ---
