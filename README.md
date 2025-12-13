@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/farhanashraf06"><img src="https://komarev.com/ghpvc/?username=farhan&style=flat-square&color=blue" alt="Profile Views"/></a>
   <a href="mailto:farhan3r3t@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="www.linkedin.com/in/frhnashraf"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/frhnashraf"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
