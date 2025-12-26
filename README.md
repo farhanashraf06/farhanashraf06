@@ -15,7 +15,7 @@
 - 🎓 I’m currently studying **Computer Science (Data Engineering)** at UTM.
 - 🌱 Currently learning **C++, Data Structures & Algorithms**
 - 💼 Interested in **Data Engineering**
-- Learning more computer languages soon !
+- Learning more programming languages soon !
 - 🚀 I love solving problems and improving my coding skills  
 - 📝 I share my personal projects on GitHub
 
@@ -34,7 +34,7 @@
 </p>
 
 ### **Others**
-- Still learning Object-Oriented Programming (OOP)  
+- Still learning Object-Oriented Programming (OOP) and other programming languages  
 - Problem Solving  
 - Debugging & Testing  
 - Version Control (Git)
