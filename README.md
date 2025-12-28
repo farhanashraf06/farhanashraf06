@@ -45,12 +45,4 @@
 - Problem Solving & Debugging  
 - Version Control (Git)  
 - Flowchart Design
-
-### **Others**
-- Still learning Object-Oriented Programming (OOP) and other programming languages  
-- Problem Solving  
-- Debugging & Testing  
-- Version Control (Git)
-- Flowchart
-
----
+- Leadership
