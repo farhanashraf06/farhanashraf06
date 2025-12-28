@@ -1,23 +1,33 @@
 <!-- Intro Section -->
 <h1 align="center">Hi, I'm Farhan Ashraf 👋</h1>
-<h3 align="center">Computer Science Student | C++ Enthusiast | Future Data Engineer</h3>
+<h3 align="center">Computer Science Student | C++ Enthusiast | Aspiring Data Engineer</h3>
 
 <p align="center">
-  <a href="https://github.com/farhanashraf06"><img src="https://komarev.com/ghpvc/?username=farhan&style=flat-square&color=blue" alt="Profile Views"/></a>
-  <a href="mailto:farhan3r3t@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/frhnashraf"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <!-- GitHub Logo -->
+  <a href="https://github.com/farhanashraf06" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/>
+  </a>
+  
+  <!-- Email Badge -->
+  <a href="mailto:farhan3r3t@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  
+  <!-- LinkedIn Logo -->
+  <a href="https://www.linkedin.com/in/frhnashraf" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 I’m currently studying **Computer Science (Data Engineering)** at UTM.
-- 🌱 Currently learning **C++, Data Structures & Algorithms**
-- 💼 Interested in **Data Engineering**
-- Learning more programming languages soon !
-- 🚀 I love solving problems and improving my coding skills  
-- 📝 I share my personal projects on GitHub
+- 🎓 Studying **Computer Science (Data Engineering)** at UTM  
+- 🌱 Currently learning **C++, Data Structures & Algorithms**  
+- 💼 Passionate about **Data Engineering** and problem-solving  
+- 🚀 Love building projects and improving coding skills  
+- 📝 Share my projects on GitHub
 
 ---
 
@@ -25,13 +35,19 @@
 
 ### **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++"/>
 </p>
 
 ### **Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools"/>
 </p>
+
+### **Other Skills**
+- Object-Oriented Programming (OOP)  
+- Problem Solving & Debugging  
+- Version Control (Git)  
+- Flowchart Design
 
 ### **Others**
 - Still learning Object-Oriented Programming (OOP) and other programming languages  
