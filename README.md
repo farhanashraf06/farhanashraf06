@@ -8,10 +8,7 @@
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/>
   </a>
   
-  <!-- Email Badge -->
-  <a href="mailto:farhan3r3t@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+ 
   
   <!-- LinkedIn Logo -->
   <a href="https://www.linkedin.com/in/frhnashraf" target="_blank">
