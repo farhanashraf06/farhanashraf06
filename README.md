@@ -45,8 +45,9 @@
 
 ### **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++ , HTML , CSS"/>
+  <img src="https://skillicons.dev/icons?i=cpp,html,css&perline=3" alt="C++, HTML, CSS" />
 </p>
+
 
 ### **Tools**
 <p>
