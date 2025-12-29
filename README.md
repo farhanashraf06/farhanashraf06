@@ -28,9 +28,9 @@
 
 ## 🎓 Academic Achievements
 
-- 🏅 UTMSPACE Physical Science Foundation Programme 2024/2025 ==> **3.97** 
-- 📊 Achieve 9A SPM
-- 🧠 MUET BAND 4.0  
+- 🏅 UTMSPACE Physical Science Foundation Programme 2024/2025 ==> **CGPA 3.97** 
+- 📊 Achieve **9A** SPM
+- 🧠 MUET BAND **4.0**  
 
 
 ---
