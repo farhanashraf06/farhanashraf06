@@ -7,9 +7,7 @@
   <a href="https://github.com/farhanashraf06" target="_blank">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/>
   </a>
-  
- 
-  
+
   <!-- LinkedIn Logo -->
   <a href="https://www.linkedin.com/in/frhnashraf" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="40" height="40"/>
@@ -24,7 +22,16 @@
 - 🌱 Currently learning **C++, Data Structures & Algorithms**  
 - 💼 Passionate about **Data Engineering** and problem-solving  
 - 🚀 Love building projects and improving coding skills  
-- 📝 Share my projects on GitHub
+- 📝 Share my projects on GitHub  
+
+---
+
+## 🎓 Academic Achievements
+
+- 🏅 UTMSPACE Physical Science Foundation Programme 2024/2025 ==> **3.97** 
+- 📊 Achieve 9A SPM
+- 🧠 MUET BAND 4.0  
+
 
 ---
 
@@ -44,5 +51,5 @@
 - Object-Oriented Programming (OOP)  
 - Problem Solving & Debugging  
 - Version Control (Git)  
-- Flowchart Design
-- Leadership
+- Flowchart Design  
+- Leadership  
