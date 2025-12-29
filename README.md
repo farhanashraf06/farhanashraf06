@@ -35,6 +35,12 @@
 
 ---
 
+## 🌟 Leadership & Experience
+
+- 👥 **VICE PRESIDENT OF SCHOOL PREFECT SMK BANDAR BARU SALAK TINGGI**  
+  
+---
+
 ## 🛠️ Skills & Tools
 
 ### **Languages**
