@@ -22,7 +22,8 @@
 - 🌱 Currently learning **C++, Data Structures & Algorithms**  
 - 💼 Passionate about **Data Engineering** and problem-solving  
 - 🚀 Love building projects and improving coding skills  
-- 📝 Share my projects on GitHub  
+- 📝 Share my projects on GitHub
+- 🧠 On road to learn many more language
 
 ---
 
@@ -55,8 +56,8 @@
 </p>
 
 ### **Other Skills**
-- Object-Oriented Programming (OOP)  
-- Problem Solving & Debugging  
-- Version Control (Git)  
-- Flowchart Design  
-- Leadership  
+- 💻 Object-Oriented Programming (OOP)  
+- ⚙️ Problem Solving & Debugging  
+- 🌐 Version Control (Git)  
+- 📊 Flowchart Design  
+- 👑 Leadership  
