@@ -39,8 +39,8 @@
   📂 Explore all my 1st semester course on this repository here: <br>
   🔗 <a href="https://github.com/farhanashraf06/1stSemDataEngineer" target="_blank">
     <b>1stSemDataEngineer Repo</b>
-    This repository is where I would upload all my assignment for all my courses in 1st semester
   </a>
+  This repository is where I would upload all my assignment for all my courses in 1st semester
 </p>
 
 ---
