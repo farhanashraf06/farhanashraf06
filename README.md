@@ -38,7 +38,7 @@
 <p>
   📂 Explore all my 1st semester course on this repository here: <br>
   🔗 <a href="https://github.com/farhanashraf06/1stSemDataEngineer" target="_blank">
-    <b>My GitHub Repositories</b>
+    <b>1stSemDataEngineer Repo</b>
   </a>
 </p>
 
